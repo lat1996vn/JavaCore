@@ -1,4 +1,4 @@
-class Exe2_Page58
+class CLA
   public static void main(String args[])
   {
     System.out.println("This is what the main method received");
