@@ -1,8 +1,5 @@
-import java.awt.Frame;
-import java.awt.Dialog;
-import java.awt.Button;
-import java.awt.Label;
-import java.awt.FlowLayout;  
+import java.awt.*;
+//import java.awt.*;        // Using AWT container and component classes
 import java.awt.event.*;  
 class DialogDemo {  
     private static Dialog d;  
